@@ -1,1 +1,1 @@
-# Find-a-peak-in-2D-array-problem
+# Find a peak in 2D array problem
