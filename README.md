@@ -1,4 +1,4 @@
-# Find-a-peak-in-2D-array-problem
+# Find a peak in 2D array problem
 
 ## A peak element is defined as -
 * An element is greater than or equal to its four neighbors, left, right, top and bottom. 
